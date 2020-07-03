@@ -1,5 +1,8 @@
 ## SimpleChat.Support - Open Source Live Chat App
 
+[![Run on Repl.it](https://repl.it/badge/github/juliancwirko/s-chat-app)](https://repl.it/github/juliancwirko/s-chat-app)
+
+
 - [https://www.simplechat.support](https://www.simplechat.support)
 
 sChat (or SimpleChat or SimpleChat.Support) is an open source and very basic live chat app written by a JavaScript/Meteor developer. It is free and MIT licensed. You can use it in a SaaS-like model on the website or you can also create your own self-hosted copy of the app.
